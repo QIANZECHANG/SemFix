@@ -1,5 +1,0 @@
-clang -O0 -g -S -emit-llvm input.c -o input.ll
-opt -load ../build/lib/LLVMGetLine.so -getline input.ll -o output.ll
-./recordLine.sh input_test.txt 
-python tarantula.py >result
-
