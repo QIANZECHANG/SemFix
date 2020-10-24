@@ -1,0 +1,4 @@
+LD_LIBRARY_PATH=/home/binary/klee/build/lib/
+./getOutput.sh 
+python3 check_constraint.py
+
