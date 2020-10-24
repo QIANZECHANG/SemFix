@@ -1,0 +1,10 @@
+ktest file : 'klee-last/test000001.ktest'
+args       : ['program.bc', '1', '11', '110', '1']
+num objects: 1
+object 0: name: 'bias'
+object 0: size: 4
+object 0: data: b'o\x00\x00\x00'
+object 0: hex : 0x6f000000
+object 0: int : 111
+object 0: uint: 111
+object 0: text: o...

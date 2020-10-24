@@ -1,0 +1,2 @@
+KLEE: WARNING: undefined reference to function: atoi
+KLEE: WARNING ONCE: calling external: atoi(72720816) at program.c:17 9

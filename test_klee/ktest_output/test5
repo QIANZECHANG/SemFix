@@ -1,0 +1,3 @@
+ktest file : 'klee-last/test000001.ktest'
+args       : ['program.bc', '0', '0', '10', '0']
+num objects: 0
